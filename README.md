@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Aqsa Zahid 👋
 
-<!--
-**aqsazahid-dotcom/aqsazahid-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **SQA Intern | Manual & Automation Testing Enthusiast**
 
-Here are some ideas to get you started:
+📍 Raiwind, Punjab, Pakistan
+🎓 BS IT Student | Aspiring QA Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+- 🔧 Learning Software Quality Assurance - Manual & Automation Testing
+- 📝 Skills: SDLC, STLC, Test Case Design, Test Execution, Bug Reporting, Defect Lifecycle
+- 🤖 Currently exploring: Selenium, Automation Concepts
+- 🎯 Goal: To become a professional QA / Automation Engineer
+
+### 🛠️ Tech Stack
+`Manual Testing` `Test Cases` `Bug Tracking` `SDLC` `STLC` `Selenium (Learning)` `JIRA (Basics)` `Git & GitHub`
+
+### 📫 Connect with Me
+- LinkedIn: [Your LinkedIn Link Here]
+- Email: aqsazahid-dotcom@github
+
+✨ *"Quality is not an act, it is a habit."*
