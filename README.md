@@ -2,8 +2,8 @@
 
 🚀 **SQA Intern | Manual & Automation Testing Enthusiast**
 
-📍 Raiwind, Punjab, Pakistan
-🎓 BS IT Student | Aspiring QA Engineer
+📍 Shad Bagh Amir Road, Punjab, Pakistan
+🎓 BS CS Student | Aspiring QA Engineer
 
 ### 🔍 About Me
 - 🔧 Learning Software Quality Assurance - Manual & Automation Testing
@@ -15,7 +15,7 @@
 `Manual Testing` `Test Cases` `Bug Tracking` `SDLC` `STLC` `Selenium (Learning)` `JIRA (Basics)` `Git & GitHub`
 
 ### 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Link Here]
-- Email: aqsazahid-dotcom@github
+- LinkedIn: [Aqsa Zahid] (https://www.linkedin.com/in/aqsa-zahid-8321b3423)
+- Email: aqsazahid676@gmail.com
 
 ✨ *"Quality is not an act, it is a habit."*
